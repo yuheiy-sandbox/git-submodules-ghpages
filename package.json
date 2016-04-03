@@ -1,0 +1,13 @@
+{
+  "name": "git-submodules-ghpages",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "precopy": "mkdir dist/",
+    "copy": "cp src/* dist/"
+  },
+  "keywords": [],
+  "author": "Yuhei Yasuda <yuhei.yasuda1003@gmail.com> (https://yhey.me/)",
+  "license": "MIT"
+}
