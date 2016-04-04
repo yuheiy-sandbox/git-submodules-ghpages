@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "precopy": "mkdir dist/",
+    "precopy": "mkdir -p dist/",
     "copy": "cp src/* dist/"
   },
   "keywords": [],
